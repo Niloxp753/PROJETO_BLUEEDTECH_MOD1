@@ -14,8 +14,8 @@ Exibir ao final o valor de cada uma das respostas
 */
 
 console.clear();
-let yes = 0
-let rep = 0
+let yes = 0;
+let rep = 0;
 
 
 console.log(`\nNas profundezas das montanhas, ao sul das Terras do Rio Acádia, 
